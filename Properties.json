@@ -1,5 +1,5 @@
 {
-  "unit": [
+  "Units": [
     "m",
     "cm",
     "kg",
@@ -9,9 +9,8 @@
     "Kit",
     "Unit / Piece",
     "Pair",
-    "test"
   ],
-  "colors": [
+  "Colors": [
     "Red",
     "Orange",
     "Yellow",
@@ -22,7 +21,7 @@
     "Purple",
     "Rose",
   ],
-  "size": [
+  "Sizes": [
   "one-size-fits-all",
   "XS - Extra small",
   "S - Small",

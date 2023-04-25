@@ -310,7 +310,7 @@
     "Environmental hazard",
     "Health hazard"
   ],
-  "Categories": [
+  "Industries": [
     "Building, Construction",
     "Chemical, pharmaceutical",
     "Firefighting, Rescue, Security",
@@ -319,6 +319,8 @@
     "Manufacturing, Food industry",
     "Metallurgy, Foundries, Shipbuilding",
     "Petrochemical, Mines",
+  ],
+  "Categories": [
     "Personal Protective Equipement (PPE)",
       "harnesses",
       "Other",

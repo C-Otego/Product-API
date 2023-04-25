@@ -299,6 +299,16 @@
     "Vatican City",
     "Vietnam",
     "Wallis and Futuna"
+  ],
+  "Dangerouness": [
+    "None",
+    "Explosive material",
+    "Inflammable",
+    "Toxic",
+    "Corrosive",
+    "Pressured gas",
+    "Environmental hazard",
+    "Health hazard"
   ]
 }
 

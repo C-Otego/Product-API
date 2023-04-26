@@ -14,7 +14,7 @@
     "Red",
     "Orange",
     "Yellow",
-    "light Green",
+    "Light Green",
     "Green",
     "Light Blue",
     "Blue",
@@ -22,17 +22,22 @@
     "Rose",
     "Black",
     "Grey",
-    "White"
+    "White",
+    "Gold",
+    "Silver"
   ],
   "Sizes": [
   "one-size-fits-all",
+  "XXS - 2X Extra small",  
   "XS - Extra small",
   "S - Small",
   "M - Medium",
   "L - Large",
   "XL - Extra large",
   "XXL - 2X Extra large",
-  "3XL - 3X Extra large"
+  "3XL - 3X Extra large",
+  "4XL - 4X Extra large",
+  "5XL - 5X Extra large"
   ],
   "Shoe sizes": [
     "03.0 | 02.5 | 22.0 | 35.0",
